@@ -7,4 +7,4 @@
     
 ### Réaliser par : 
 
-    GATTOLIN Numa & RICHARD Antoine
+GATTOLIN Numa & RICHARD Antoine
