@@ -21,11 +21,11 @@ Golang
 
 ## Structure des fichiers
 
-- /lstFunc/ : Dossier contenant les fonctions principales du jeu.
-- /acceuil_main.go : Script principal qui lance le jeu.
-- /chanteur anglais américain.txt : Fichier contenant des mots à deviner (thème : chanteurs anglo-américains).
-- /comédie musical.txt : Fichier contenant des mots à deviner (thème : comédies musicales).
-- /hangman.txt : Fichier texte représentant le pendu.
+- **/lstFunc/** : Dossier contenant les fonctions principales du jeu.
+- **/acceuil_main.go** : Script principal qui lance le jeu.
+- **/chanteur anglais américain.txt** : Fichier contenant des mots à deviner (thème : chanteurs anglo-américains).
+- **/comédie musical.txt** : Fichier contenant des mots à deviner (thème : comédies musicales).
+- **/hangman.txt** : Fichier texte représentant le pendu.
 
 ### Réaliser par : 
 
