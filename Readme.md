@@ -17,7 +17,7 @@ Ce projet est une application de jeu de Hangman, développée avec Golang. Le je
     go run .\acceuil_main.go
 
 ## Technologies utilisées
-Golang
+- Golang
 
 ## Structure des fichiers
 
